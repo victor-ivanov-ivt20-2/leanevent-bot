@@ -19,7 +19,10 @@
   },
   "homepage": "https://github.com/victor-ivanov-ivt20-2/leanevent-bot#readme",
   "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
     "node-telegram-bot-api": "^0.60.0",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.25.8"
   }
 }
