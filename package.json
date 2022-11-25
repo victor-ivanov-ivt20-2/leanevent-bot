@@ -1,0 +1,24 @@
+{
+  "name": "leanevent-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-ivanov-ivt20-2/leanevent-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor-ivanov-ivt20-2/leanevent-bot/issues"
+  },
+  "homepage": "https://github.com/victor-ivanov-ivt20-2/leanevent-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.60.0",
+    "nodemon": "^2.0.20"
+  }
+}
